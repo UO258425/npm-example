@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/npm-example/static/css/main.d1b05096.chunk.css",
+    "main.js": "/npm-example/static/js/main.deb59fd7.chunk.js",
+    "main.js.map": "/npm-example/static/js/main.deb59fd7.chunk.js.map",
+    "runtime-main.js": "/npm-example/static/js/runtime-main.eab51f1d.js",
+    "runtime-main.js.map": "/npm-example/static/js/runtime-main.eab51f1d.js.map",
+    "static/js/2.28d221d8.chunk.js": "/npm-example/static/js/2.28d221d8.chunk.js",
+    "static/js/2.28d221d8.chunk.js.map": "/npm-example/static/js/2.28d221d8.chunk.js.map",
+    "index.html": "/npm-example/index.html",
+    "precache-manifest.4ebba3a263ecc5f277b577091f22230f.js": "/npm-example/precache-manifest.4ebba3a263ecc5f277b577091f22230f.js",
+    "service-worker.js": "/npm-example/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/npm-example/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.28d221d8.chunk.js.LICENSE.txt": "/npm-example/static/js/2.28d221d8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/npm-example/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eab51f1d.js",
+    "static/js/2.28d221d8.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.deb59fd7.chunk.js"
+  ]
+}
